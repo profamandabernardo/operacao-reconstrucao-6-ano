@@ -1,0 +1,19 @@
+OPERAÇÃO RECONSTRUÇÃO — 6º ANO — V6
+
+Base:
+- Conteúdo/missões: projeto 6º ano V5.1.
+- Interface/identidade visual: projeto 7º ano V4.2.
+- Mantidas as 10 missões próprias do 6º ano.
+- Mantidos os cinco guias e a tela de Grande Final antes das missões 9 e 10.
+- Salvamento local usa uma chave exclusiva do 6º ano: operacaoReconstrucao6AnoV6.
+
+GOOGLE SHEETS
+O projeto já está preparado para enviar o resultado final para Google Sheets.
+Abra script.js e procure:
+  const GOOGLE_SHEETS_URL = "";
+
+Cole entre as aspas a MESMA URL /exec do Google Apps Script usada pelo jogo do 7º ano.
+O envio inclui a propriedade ano = "6º ano", permitindo armazenar os dois jogos na mesma planilha.
+
+IMPORTANTE:
+A URL do Google Sheets não estava presente nos ZIPs recebidos, então ela não foi inventada.
