@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650">
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#63c9f4"/><stop offset="1" stop-color="#dff5ff"/></linearGradient></defs>
+<rect width="900" height="650" rx="35" fill="url(#sky)"/>
+<rect y="390" width="900" height="260" fill="#65bd55"/>
+<rect x="35" y="28" width="315" height="105" rx="24" fill="#073b7a"/>
+<text x="65" y="70" font-family="Arial" font-weight="700" font-size="30" fill="white">MISSÃO 7</text>
+<text x="65" y="108" font-family="Arial" font-weight="700" font-size="23" fill="white">O AQUÁRIO</text>
+<rect x="180" y="190" width="540" height="360" rx="20" fill="#5ed3ee" fill-opacity=".65" stroke="#167bc1" stroke-width="14"/><path d="M190 330 Q260 300 330 330 T470 330 T610 330 T710 330" fill="none" stroke="white" stroke-width="8"/><text x="280" y="595" font-family="Arial" font-weight="800" font-size="30" fill="#073b7a">50 CM × 30 CM × 20 CM</text></svg>

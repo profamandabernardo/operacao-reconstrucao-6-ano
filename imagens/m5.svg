@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650">
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#63c9f4"/><stop offset="1" stop-color="#dff5ff"/></linearGradient></defs>
+<rect width="900" height="650" rx="35" fill="url(#sky)"/>
+<rect y="390" width="900" height="260" fill="#65bd55"/>
+<rect x="35" y="28" width="315" height="105" rx="24" fill="#073b7a"/>
+<text x="65" y="70" font-family="Arial" font-weight="700" font-size="30" fill="white">MISSÃO 5</text>
+<text x="65" y="108" font-family="Arial" font-weight="700" font-size="23" fill="white">QUADRA DE AREIA</text>
+<rect x="150" y="210" width="590" height="300" rx="18" fill="#e8c77d" stroke="white" stroke-width="10"/><line x1="445" y1="210" x2="445" y2="510" stroke="#1d5fa8" stroke-width="9"/><line x1="445" y1="235" x2="445" y2="485" stroke="white" stroke-width="3"/><text x="355" y="560" font-family="Arial" font-weight="800" font-size="34" fill="#073b7a">14 M</text><text x="770" y="360" font-family="Arial" font-weight="800" font-size="34" fill="#073b7a" transform="rotate(90 770 360)">6 M</text></svg>

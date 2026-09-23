@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650">
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#63c9f4"/><stop offset="1" stop-color="#dff5ff"/></linearGradient></defs>
+<rect width="900" height="650" rx="35" fill="url(#sky)"/>
+<rect y="390" width="900" height="260" fill="#65bd55"/>
+<rect x="35" y="28" width="315" height="105" rx="24" fill="#073b7a"/>
+<text x="65" y="70" font-family="Arial" font-weight="700" font-size="30" fill="white">MISSÃO 6</text>
+<text x="65" y="108" font-family="Arial" font-weight="700" font-size="23" fill="white">CAIXA DE DOAÇÕES</text>
+<polygon points="270,260 480,180 650,280 440,370" fill="#e4ae72"/><polygon points="270,260 440,370 440,555 270,445" fill="#c98955"/><polygon points="440,370 650,280 650,465 440,555" fill="#b87549"/><text x="300" y="590" font-family="Arial" font-weight="800" font-size="30" fill="#073b7a">7 CM × 4 CM × 3 CM</text></svg>

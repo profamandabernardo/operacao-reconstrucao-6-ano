@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650">
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#63c9f4"/><stop offset="1" stop-color="#dff5ff"/></linearGradient></defs>
+<rect width="900" height="650" rx="35" fill="url(#sky)"/>
+<rect y="390" width="900" height="260" fill="#65bd55"/>
+<rect x="35" y="28" width="315" height="105" rx="24" fill="#073b7a"/>
+<text x="65" y="70" font-family="Arial" font-weight="700" font-size="30" fill="white">MISSÃO 2</text>
+<text x="65" y="108" font-family="Arial" font-weight="700" font-size="23" fill="white">CAMPO ESPORTIVO</text>
+<rect x="120" y="180" width="650" height="360" rx="18" fill="#2ca65a" stroke="white" stroke-width="9"/>
+<rect x="150" y="210" width="590" height="300" fill="none" stroke="white" stroke-width="5"/>
+<line x1="445" y1="210" x2="445" y2="510" stroke="white" stroke-width="4"/><circle cx="445" cy="360" r="55" fill="none" stroke="white" stroke-width="4"/>
+<circle cx="390" cy="350" r="24" fill="white" stroke="#123b72" stroke-width="6"/>
+<text x="345" y="585" font-family="Arial" font-weight="800" font-size="34" fill="#073b7a">40 M</text>
+<text x="785" y="375" font-family="Arial" font-weight="800" font-size="34" fill="#073b7a" transform="rotate(90 785 375)">25 M</text>
+<text x="655" y="170" font-family="Arial" font-weight="800" font-size="30" fill="#0756a8">SESI</text></svg>

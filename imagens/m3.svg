@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650">
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#63c9f4"/><stop offset="1" stop-color="#dff5ff"/></linearGradient></defs>
+<rect width="900" height="650" rx="35" fill="url(#sky)"/>
+<rect y="390" width="900" height="260" fill="#65bd55"/>
+<rect x="35" y="28" width="315" height="105" rx="24" fill="#073b7a"/>
+<text x="65" y="70" font-family="Arial" font-weight="700" font-size="30" fill="white">MISSÃO 3</text>
+<text x="65" y="108" font-family="Arial" font-weight="700" font-size="23" fill="white">JARDIM DA ESCOLA</text>
+<rect x="135" y="210" width="610" height="300" rx="18" fill="#9b6a3f" stroke="#e8d0a8" stroke-width="18"/>
+<rect x="165" y="240" width="550" height="240" rx="12" fill="#55a944"/>
+<circle cx="250" cy="315" r="34" fill="#ffcc3e"/><circle cx="340" cy="405" r="30" fill="#ef5d75"/><circle cx="480" cy="315" r="35" fill="#fff"/><circle cx="610" cy="405" r="34" fill="#f28ac3"/>
+<circle cx="430" cy="365" r="72" fill="#328c3e"/><rect x="418" y="360" width="24" height="95" fill="#7b4c2e"/>
+<text x="365" y="565" font-family="Arial" font-weight="800" font-size="34" fill="#073b7a">12 M</text>
+<text x="765" y="375" font-family="Arial" font-weight="800" font-size="34" fill="#073b7a" transform="rotate(90 765 375)">8 M</text>
+<text x="650" y="180" font-family="Arial" font-weight="800" font-size="30" fill="#0756a8">SESI</text></svg>

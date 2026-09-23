@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650">
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#63c9f4"/><stop offset="1" stop-color="#dff5ff"/></linearGradient></defs>
+<rect width="900" height="650" rx="35" fill="url(#sky)"/>
+<rect y="390" width="900" height="260" fill="#65bd55"/>
+<rect x="35" y="28" width="315" height="105" rx="24" fill="#073b7a"/>
+<text x="65" y="70" font-family="Arial" font-weight="700" font-size="30" fill="white">MISSÃO 9</text>
+<text x="65" y="108" font-family="Arial" font-weight="700" font-size="23" fill="white">O DEPÓSITO</text>
+<rect x="210" y="250" width="470" height="260" fill="#c9d4df" stroke="#64798d" stroke-width="10"/><polygon points="210,250 350,175 815,175 680,250" fill="#e7eef5"/><rect x="270" y="390" width="100" height="120" fill="#52657a"/><text x="260" y="575" font-family="Arial" font-weight="800" font-size="30" fill="#073b7a">8 M × 5 M × 4 M</text></svg>
